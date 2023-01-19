@@ -12,3 +12,6 @@
 # INSTAL.LO EL PROGRAMARI MARIADB
 ![8](https://user-images.githubusercontent.com/114162426/213485498-697d53e8-02a8-4740-b5b6-695df2fb8200.png)
 ![9](https://user-images.githubusercontent.com/114162426/213485593-b2d023a3-0be3-4507-ad63-375c6c174958.png)
+# INSTAL.LO EL PROGRAMARI MYSQL SERVER
+![10](https://user-images.githubusercontent.com/114162426/213485999-bb13839d-8c35-438e-bf34-5b0be0cf54f0.png)
+![11](https://user-images.githubusercontent.com/114162426/213486110-6bfd4c6e-5560-46c3-bd7c-f4e685ac3f87.png)
