@@ -15,3 +15,20 @@
 ![15](https://user-images.githubusercontent.com/114162426/213734718-7d1e3df7-37c5-4c79-bc33-9a94a3eda6c2.png)
 ![16](https://user-images.githubusercontent.com/114162426/213734727-e1d58f86-fc00-4d7a-a219-a832081d7fb8.png)
 ![17](https://user-images.githubusercontent.com/114162426/213734741-e3dad4df-e67b-40e9-b560-61645180a02d.png)
+# Crea un tema anomenat "Fonaments de Python".
+![1](https://user-images.githubusercontent.com/114162426/213736495-c34e90d4-d30e-425d-83e8-1550f7f2daa7.png)
+# Oculta la resta de temes del curs.
+![2](https://user-images.githubusercontent.com/114162426/213738262-9744ee6e-a12f-49c1-86e5-9dbccfb7f247.png)
+# Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python.
+![imatge](https://user-images.githubusercontent.com/114162426/213740665-37dc10dd-2ac8-498c-a602-9e30f23dbb20.png)
+
+
+
+
+
+
+
+
+
+
+
