@@ -21,7 +21,7 @@
 ![2](https://user-images.githubusercontent.com/114162426/213738262-9744ee6e-a12f-49c1-86e5-9dbccfb7f247.png)
 # Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python.
 ![imatge](https://user-images.githubusercontent.com/114162426/213740665-37dc10dd-2ac8-498c-a602-9e30f23dbb20.png)
-
+![10](https://user-images.githubusercontent.com/114162426/213864450-8b2b0454-b161-41e4-ac90-ffbb19dca4c4.png)
 
 
 
