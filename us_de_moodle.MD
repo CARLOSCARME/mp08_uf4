@@ -22,6 +22,29 @@
 # Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python.
 ![imatge](https://user-images.githubusercontent.com/114162426/213740665-37dc10dd-2ac8-498c-a602-9e30f23dbb20.png)
 ![10](https://user-images.githubusercontent.com/114162426/213864450-8b2b0454-b161-41e4-ac90-ffbb19dca4c4.png)
+# Fes que els alumnes contestin la tasca (mínim 3).
+![1](https://user-images.githubusercontent.com/114162426/213864982-71b38a3d-dfc8-45af-ae51-ad2b913a7295.png)
+# Usuari Pau
+![imatge](https://user-images.githubusercontent.com/114162426/213865005-d1abd7e5-36fa-4926-8716-c8038781291b.png)
+# Usuari Amadeu
+![imatge](https://user-images.githubusercontent.com/114162426/213865311-5b5ff0cf-c56b-4de7-abde-6f5426ecfc59.png)
+# Usuari Joan Lluis
+![1](https://user-images.githubusercontent.com/114162426/213911980-3bf41e43-487e-4b8f-9e53-2cc81a365230.png)
+# Observo de que si no es contesta exactament el predefinit de la resposta sempre qualifica amb incorrecta...
+# Qualifica la tasca de l'alumnat.
+# Mostra les qualificacions de l'alumnat.
+![imatge](https://user-images.githubusercontent.com/114162426/213912123-0cc449e1-329c-466f-b091-99ad23e78756.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
