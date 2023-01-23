@@ -49,9 +49,13 @@
 ![2](https://user-images.githubusercontent.com/114162426/214063464-e5e9fab7-05df-4071-9166-5e185bf59b12.png)
 # Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
 ![3](https://user-images.githubusercontent.com/114162426/214063852-673f0945-8229-4dce-970e-7ed70e293e51.png)
-
-
-
+# Instal·la 2 plugins de Moodle i explica què fan.
+![imatge](https://user-images.githubusercontent.com/114162426/214066637-4a43f5c1-5af8-49bf-8a60-8a52543d870d.png)
+# L'activitat Adaptive Quiz permet al professor crear proves que mesuren de manera eficient les habilitats dels participants. Les proves adaptatives estan formades per preguntes seleccionades del banc de preguntes que s'etiqueten amb una puntuació de la seva dificultat. 
+# Selecciono el plugin descarregat i l'instal.lo.
+![imatge](https://user-images.githubusercontent.com/114162426/214068108-94a15d38-74d5-4794-b215-d13b81f14a4f.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214068376-82166d1e-9868-4106-8185-0b3751139375.png)
+# Em de donar permisos al directori.
 
 
 
