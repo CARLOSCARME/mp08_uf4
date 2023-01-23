@@ -43,6 +43,10 @@
 # Com a professor mostra les contestacions de la consulta.
 ![imatge](https://user-images.githubusercontent.com/114162426/214021633-74a08aab-2cb3-4aa3-b565-84c0834d318f.png)
 # Seguretat del lloc:
+![imatge](https://user-images.githubusercontent.com/114162426/214062290-35fee43e-d39f-434f-b139-fa485f956aab.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214062716-c423e875-44a2-40c1-a3e6-a8528d139cfa.png)
+
+
 
 
 
