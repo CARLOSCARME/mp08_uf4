@@ -60,6 +60,20 @@
 # Proporciona un inici de sessió únic entre Joomla i Moodle, mostra continguts de Moodle a Joomla, cerca continguts de Moodle des de Joomla, mostra Moodle dins d'un embolcall, venen cursos mitjançant extensions de comerç electrònic, integració amb altres components de tercers com Jomsocial o Community Builder...
 ![imatge](https://user-images.githubusercontent.com/114162426/214071195-8eeef769-268a-4d3d-a219-6280f272347a.png)
 # Em de donar permisos al directori.
+![imatge](https://user-images.githubusercontent.com/114162426/214072323-209530c2-581a-4d61-ab89-2e20701b2a00.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214072671-41d53960-745e-4241-8d41-7b4bb3d90db2.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214072854-26bb2cde-c989-4fd6-9efc-1512c9178aac.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214073097-5bde95b1-5633-4d03-a81b-996551e3d973.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214073262-80149058-1c2d-4ca1-bbf1-10b133f66558.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214073429-bd72b429-3502-4ef5-bbb9-7973b2c02a9f.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214073521-0325db8b-0a8d-44d4-b95b-81dae96c2ce0.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214073604-05d2d0e7-8e92-41c1-93d6-cb6afe71057b.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214073695-dea45e8a-9173-4c14-be33-cee4b6bd745a.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214073884-3b0edbf9-fdeb-48de-8094-4cda5b087527.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214073982-eadef949-e3b1-4e04-8829-8663d4958cc6.png)
+
+
+
 
 
 
