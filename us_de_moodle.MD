@@ -79,6 +79,7 @@
 ![imatge](https://user-images.githubusercontent.com/114162426/214076113-07cb84a5-696f-4ba8-90f1-0d739cd27428.png)
 # Canvia el tema del Moodle:
 ![imatge](https://user-images.githubusercontent.com/114162426/214078800-0a036ff3-c81c-465a-a5ae-f7f08dc81f2b.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214079874-c567d102-af92-44b2-90b4-a183849f3d38.png)
 
 
 
