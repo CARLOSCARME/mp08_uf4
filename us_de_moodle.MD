@@ -55,7 +55,12 @@
 # Selecciono el plugin descarregat i l'instal.lo.
 ![imatge](https://user-images.githubusercontent.com/114162426/214068108-94a15d38-74d5-4794-b215-d13b81f14a4f.png)
 ![imatge](https://user-images.githubusercontent.com/114162426/214068376-82166d1e-9868-4106-8185-0b3751139375.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214070554-29c66f93-82a6-46b3-bd16-13c06f3e7700.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214070833-9f8020b2-899e-4d41-ba2a-d1895f5e7118.png)
+# Proporciona un inici de sessió únic entre Joomla i Moodle, mostra continguts de Moodle a Joomla, cerca continguts de Moodle des de Joomla, mostra Moodle dins d'un embolcall, venen cursos mitjançant extensions de comerç electrònic, integració amb altres components de tercers com Jomsocial o Community Builder...
+![imatge](https://user-images.githubusercontent.com/114162426/214071195-8eeef769-268a-4d3d-a219-6280f272347a.png)
 # Em de donar permisos al directori.
+
 
 
 
