@@ -43,8 +43,12 @@
 # Com a professor mostra les contestacions de la consulta.
 ![imatge](https://user-images.githubusercontent.com/114162426/214021633-74a08aab-2cb3-4aa3-b565-84c0834d318f.png)
 # Seguretat del lloc:
+# Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho. VIGILA: Fica una adreça IP sencera si no bloquejaràs tota la xarxa, si us passa podeu arreglar-ho així.
 ![imatge](https://user-images.githubusercontent.com/114162426/214062290-35fee43e-d39f-434f-b139-fa485f956aab.png)
 ![imatge](https://user-images.githubusercontent.com/114162426/214062716-c423e875-44a2-40c1-a3e6-a8528d139cfa.png)
+![2](https://user-images.githubusercontent.com/114162426/214063464-e5e9fab7-05df-4071-9166-5e185bf59b12.png)
+# Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
+![3](https://user-images.githubusercontent.com/114162426/214063852-673f0945-8229-4dce-970e-7ed70e293e51.png)
 
 
 
@@ -54,7 +58,6 @@
 
 
 
-Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho. VIGILA: Fica una adreça IP sencera si no bloquejaràs tota la xarxa, si us passa podeu arreglar-ho així.
 
 
 
