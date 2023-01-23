@@ -34,6 +34,15 @@
 # Qualifica la tasca de l'alumnat.
 # Mostra les qualificacions de l'alumnat.
 ![imatge](https://user-images.githubusercontent.com/114162426/213912123-0cc449e1-329c-466f-b091-99ad23e78756.png)
+# Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+![imatge](https://user-images.githubusercontent.com/114162426/214020124-a3b1307a-fdb8-4b8b-9b24-cc476f0f8896.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214020583-709e193f-5519-444f-993d-049f25c38c9a.png)
+![imatge](https://user-images.githubusercontent.com/114162426/214020983-de12b1b2-dde7-4d36-8817-a96ac225766c.png)
+# Com a alumne/a contesta la consulta.
+![imatge](https://user-images.githubusercontent.com/114162426/214021280-a54536b6-967b-44a5-b5d8-998dc9d1e63e.png)
+# Com a professor mostra les contestacions de la consulta.
+![imatge](https://user-images.githubusercontent.com/114162426/214021633-74a08aab-2cb3-4aa3-b565-84c0834d318f.png)
+# Seguretat del lloc:
 
 
 
@@ -41,8 +50,7 @@
 
 
 
-
-
+Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho. VIGILA: Fica una adreça IP sencera si no bloquejaràs tota la xarxa, si us passa podeu arreglar-ho així.
 
 
 
