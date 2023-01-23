@@ -73,9 +73,12 @@
 ![imatge](https://user-images.githubusercontent.com/114162426/214073982-eadef949-e3b1-4e04-8829-8663d4958cc6.png)
 # Personalització del tauler d'usuaris:
 ![imatge](https://user-images.githubusercontent.com/114162426/214075752-c8058e16-4e1e-4c1c-b4fe-d0e89a148478.png)
+# Afegeix a dalt de tot "Cursos visitats recentment".
 ![imatge](https://user-images.githubusercontent.com/114162426/214075940-768154fd-3e6a-499d-8499-0750a1b48eee.png)
+# Afegeix a baix de tot "Usuaris en línia".
 ![imatge](https://user-images.githubusercontent.com/114162426/214076113-07cb84a5-696f-4ba8-90f1-0d739cd27428.png)
-
+# Canvia el tema del Moodle:
+![imatge](https://user-images.githubusercontent.com/114162426/214078800-0a036ff3-c81c-465a-a5ae-f7f08dc81f2b.png)
 
 
 
